@@ -1,2 +1,2 @@
 sytax on
-set tabstop=3
+set tabstop=4
